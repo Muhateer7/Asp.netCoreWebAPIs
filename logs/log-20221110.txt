@@ -1,0 +1,6 @@
+2022-11-10 13:51:50.771 +05:00 [INF] Now listening on: https://localhost:7147
+2022-11-10 13:51:50.825 +05:00 [INF] Now listening on: http://localhost:5059
+2022-11-10 13:51:50.830 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-10 13:51:50.831 +05:00 [INF] Hosting environment: Development
+2022-11-10 13:51:50.832 +05:00 [INF] Content root path: E:\Asp.NET_Web_Projects\Asp.net_CoreWebAPI\Asp.net_CoreWebAPI\
+2022-11-10 13:52:21.296 +05:00 [INF] Application is shutting down...
